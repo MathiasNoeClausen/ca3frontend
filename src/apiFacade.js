@@ -1,4 +1,4 @@
-const URL = "http://localhost:8080/startkodeca3";
+const URL = "https://www.mathiasnoeclausen.dk/ca3";
  
 function handleHttpErrors(res) {
  if (!res.ok) {
